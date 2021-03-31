@@ -11,3 +11,5 @@ The three goals of this mini project are to:
 1. Estimate the value of homes from fixed characteristics (features).
 2. Estimate the value of changeable (renovatable) property characteristics, that are unexplained from the fixed ones.
 3. Identifying the property characteristics that predict an 'abnormal' sale.
+
+See the Jupyter Notebook for more specifics.
